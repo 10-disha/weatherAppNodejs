@@ -1,0 +1,20 @@
+{
+  "name": "weatherappnodejs",
+  "version": "1.0.0",
+  "description": "creating a weather node js app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Disha10_coder"
+  },
+  "author": "disha jayswal",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "requests": "^0.3.0"
+  },
+  "devDependencies": {}
+}
